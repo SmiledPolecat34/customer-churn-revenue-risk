@@ -15,10 +15,6 @@ venv/
 env/
 .env/
 
-# Modèles entraînés (volumineux, régénérables)
-models/*.joblib
-models/*.pkl
-
 # Figures générées (régénérables)
 reports/figures/*.png
 reports/shap/*.png
@@ -49,5 +45,5 @@ logs/
 test.parquet
 train.parquet
 
-venv/
 pytest-cache-files-*
+.pytest_cache/

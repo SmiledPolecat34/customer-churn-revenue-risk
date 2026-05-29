@@ -1,0 +1,1 @@
+La video, le rapport et le notebook sont dans "docs/".
