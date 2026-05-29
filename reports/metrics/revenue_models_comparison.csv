@@ -1,0 +1,4 @@
+model,mae,rmse,r2,cv_rmse_mean,cv_rmse_std
+Ridge,207.49,343.1,0.4347,323.17,12.03
+Random Forest,90.29,172.26,0.8575,217.95,8.68
+XGBoost,78.54,153.24,0.8872,199.15,7.36
